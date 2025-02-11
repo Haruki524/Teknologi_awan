@@ -11,4 +11,4 @@
 ###
 ###
 ###
-`rgb(255, 255, 0)### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>`
+`rgb(255, 255, 0)`### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
