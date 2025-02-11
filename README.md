@@ -4,4 +4,4 @@
 ### Nama Saya Alfani Eka Pratama Yuda, Ini merupakan tugas pertama dari mata kuliah Teknologi Awan.
 ### Saya kini sedang menempuh pendidikan Strata 1 dalam bidang kompetensi Teknik Informatika di Universitas Nahdlatul Ulama Sunan Giri Bojonegoro.
 ### I Dont Know What Else Must I Write, sooo sorry...
-### thanks for read this simple introduce.
+### <ins>_thanks for read this simple introduce._</ins>
