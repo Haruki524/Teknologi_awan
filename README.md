@@ -1,14 +1,14 @@
 
-# Tugas Pertama
+`#0969DA`# Tugas Pertama
 ## Hi EveryOne
 
 ### Nama Saya Alfani Eka Pratama Yuda, Ini merupakan tugas pertama dari mata kuliah Teknologi Awan.
 ### Saya kini sedang menempuh pendidikan Strata 1 dalam bidang kompetensi Teknik Informatika di Universitas Nahdlatul Ulama Sunan Giri Bojonegoro.
+### Saya dari kelas TI 6C.
+
 ### I Dont Know What Else Must I Write, sooo sorry...
 ### <ins>_thanks for read this simple introduce._</ins>
-
-#
-
-#
-
-	`#0969DA`### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
+###
+###
+###
+### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
