@@ -1,3 +1,4 @@
+
 # First It's Exist
 ## Hi EveryOne
 
@@ -10,4 +11,4 @@
 
 #
 
-### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
+	`#0969DA`### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
