@@ -1,5 +1,5 @@
 
-`#0969DA`# Tugas Pertama
+# Tugas Pertama
 ## Hi EveryOne
 
 ### Nama Saya Alfani Eka Pratama Yuda, Ini merupakan tugas pertama dari mata kuliah Teknologi Awan.
@@ -11,4 +11,4 @@
 ###
 ###
 ###
-### <sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>
+### `rgb(9, 105, 218)<sup><ins>_Look at me, I can walk with you until this world ends_</ins></sup>`
